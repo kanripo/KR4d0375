@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 須溪四景詩集
-#+DATE: 2020-03-31 11:34:49.185805
+#+DATE: 2020-03-31 11:34:49.232173
 #+PROPERTY: ID KR4d0375
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 1
 <pb:KR4d0375_WYG_001-1a>¶
 　　欽定四庫全書¶
@@ -369,7 +369,7 @@
 　　深院停春雨庭空鳥不鳴自然清晝寂盡是綠陰生滿¶
 <pb:KR4d0375_WYG_001-15a>¶
 眼成青幄無人惜絳英輕風低鼎篆遲日上簾旌逺水¶
-明鸂𪆟平欄繞杜蘅小窓臨晉帖誤落剪刀聲¶
+明鸂鶒平欄繞杜蘅小窓臨晉帖誤落剪刀聲¶
 ¶
 　　燕子家家入¶
 ¶
